@@ -1,0 +1,8 @@
+<!-- laser_scan_matcher nodelet publisher -->
+<library path="lib/libmulti_laser_scan_matcher_nodelet">
+  <class name="multi_laser_scan_matcher/MultiLaserScanMatcherNodelet" type="MultiLaserScanMatcherNodelet" base_class_type="nodelet::Nodelet">
+    <description>
+      Multi Laser Scan Matcher nodelet publisher.
+    </description>
+  </class>
+</library>
